@@ -1,1 +1,1 @@
-# awsome-cornerstone
+# 🚀 Absolutely Awesome Cornerstone Libraries & Plugins
