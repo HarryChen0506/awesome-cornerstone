@@ -23,8 +23,6 @@
 ### 🎱 3D
 
 -	[cornerstone-vtk-mpr](https://github.com/cornerstonejs/cornerstoneTools) - A scheme for building MPR by vtk.js
-- [react-vtkjs-viewport](https://github.com/OHIF/react-vtkjs-viewport) - [demo](https://react-vtkjs-viewport.netlify.com/) - VTK.js image viewport component in React
-- [vue-vtkjs-viewport](https://github.com/mix3d/vue-vtkjs-viewport) - VTK.js image viewport component in Vue, Sister project of react-vtkjs-viewport
 
 ### 🌰 Components
 
@@ -33,6 +31,7 @@
 ### 🏠 Applications
 
 - [Viewers](https://github.com/OHIF/Viewers) - [demo](https://viewer.ohif.org/) - [docs](https://docs.ohif.org/) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
+- [prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - [demo](http://prostatecancer.ai/studylist) - prostatecancer.ai is an AI-based, zero-footprint medical image viewer that can identify clinically significant prostate cancer.
 - [dicomviewer](https://github.com/ayselafsar/dicomviewer) - [demo](https://apps.nextcloud.com/apps/dicomviewer) - DICOM Viewer in Nextcloud
 
 ### 💡 Examples
