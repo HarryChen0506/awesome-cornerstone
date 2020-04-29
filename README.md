@@ -33,12 +33,15 @@
 - [Viewers](https://github.com/OHIF/Viewers) - [demo](https://viewer.ohif.org/) - [docs](https://docs.ohif.org/) - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages
 - [prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - [demo](http://prostatecancer.ai/studylist) - prostatecancer.ai is an AI-based, zero-footprint medical image viewer that can identify clinically significant prostate cancer.
 - [dicomviewer](https://github.com/ayselafsar/dicomviewer) - [demo](https://apps.nextcloud.com/apps/dicomviewer) - DICOM Viewer in Nextcloud
+- [dicom-viewer](https://github.com/mmollaahmadi/dicom-viewer) - [demo](https://webnamics.github.io/u-dicom-viewer/) - A simple web browser DICOM viewer for any device
 
 ### 💡 Examples
 
+- [dcmjs](https://github.com/dcmjs-org/dcmjs) - [demo](https://dcmjs.netlify.com/) - Javascript implementation of DICOM manipulation
 - [angular-cornerstone-example](https://github.com/avatsaev/angular-cornerstone-example) - Angular Cornerstone Example
 - [CornerstoneVueWADO](https://github.com/GleasonBian/CornerstoneVueWADO) - Small proof of concept project that shows how to wrap Cornerstone with VueJS
 - [cornerstoneToolsExample](https://github.com/GleasonBian/cornerstoneToolsExample) - [demo](https://rawgithub.com/cornerstonejs/cornerstoneTools/master/examples/index.html) - cornerstone tools example
+- [dicomViewerLib](https://github.com/fourctv/dicomViewerLib) - [demo](https://fourctv.github.io/dicomViewerDemo/) - Angular 8+ DICOM Viewer Component and demo app
 
 ### 📖 Docs
 
